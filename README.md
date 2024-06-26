@@ -1,8 +1,21 @@
-# React + Vite
+### Simple React To-Do Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Overview
 
-Currently, two official plugins are available:
+This application was developed as a part of an assignment to showcase proficiency in HTML, CSS, JavaScript (ES6+), React functional components, hooks (`useState`), and state management with Redux. It allows users to manage tasks with basic CRUD operations (Create, Read, Update, Delete).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Features
+
+- **Add Task:** Input a task and add it to the list.
+- **View Tasks:** Display all tasks in a list format.
+- **Edit Task:** Edit the text of an existing task.
+- **Delete Task:** Remove a task from the list.
+- **Toggle Completion:** Mark tasks as completed or incomplete.
+
+### Technologies Used
+
+- React
+- Redux
+- HTML
+- CSS (Tailwind CSS for styling)
+- JavaScript (ES6+)
